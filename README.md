@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ElderlyAssistant APP
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,4 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LOGIC0805&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LOGIC0805&count_private=true&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LOGIC0805&layout=compact&hide=JAVA)](https://github.com/anuraghazra/github-readme-stats)
+
+🔭 I’m currently working on ElderlyAssistant APP.
+
+🌱 I’m currently learning blockchain.
+
+🤔 I’m looking for help with web crawler.
+
+📫 How to reach me: QQ: 1035351959  Mail: LOGIC1035351959@gmail.com

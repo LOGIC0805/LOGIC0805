@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LOGIC0805&layout=compact&hide=JAVA)](https://github.com/anuraghazra/github-readme-stats)
 
-🔭 I’m currently working on ElderlyAssistant APP.
+🔭 I’m currently working on NAJI APP.
 
 🌱 I’m currently learning blockchain.
 

@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LOGIC0805&layout=compact&hide=JAVA)](https://github.com/anuraghazra/github-readme-stats)
 
-🔭 I’m currently working on NAJI APP.
+🔭 I’m currently working on graduation thesis.
 
-🌱 I’m currently learning blockchain.
+🌱 I’m currently learning quantitative investment.
 
-🤔 I’m looking for help with web crawler.
+🤔 I’m looking for help with quantitative investment.
 
 📫 How to reach me: QQ: 1035351959  Mail: LOGIC1035351959@gmail.com
